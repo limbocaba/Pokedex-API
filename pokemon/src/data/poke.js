@@ -1,4 +1,4 @@
-[
+const PokemonData = [
   {
     "attack": 49,
     "defense": 49,
@@ -1812,3 +1812,5 @@
     "weight": 40
   }
 ]
+
+export default PokemonData
