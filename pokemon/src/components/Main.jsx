@@ -1,4 +1,5 @@
 import React from 'react'
+import Card from './Card';
 
 function Main() {
   return (
@@ -7,7 +8,7 @@ function Main() {
         
       </div>
       <div className="right-content">
-        
+        <Card />
       </div>
     </div>
   )
