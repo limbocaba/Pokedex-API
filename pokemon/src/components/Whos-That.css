@@ -1,0 +1,9 @@
+.content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pokedex {
+  background: no-repeat center url("https://i.pinimg.com/originals/3c/98/8f/3c988f6d67a1c56e589a3194be097525.png");
+}
+
