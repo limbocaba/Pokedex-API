@@ -1,1 +1,3 @@
-# Whos-That-Pokemon
+# Pokedex
+
+Deployed Site: https://sandys-pokedex.netlify.app/
