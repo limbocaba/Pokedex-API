@@ -20,7 +20,6 @@ body{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(200px,0.5fr));
     grid-gap:2rem;
-    cursor: pointer;
 }
 .card{
     width: 300px;
@@ -32,6 +31,11 @@ body{
     align-items: center;
     justify-content: space-between;
     box-sizing: border-box;
+    cursor: pointer;
+    transition: transform 100ms ease-in-out;
+}
+.card:hover {
+  transform: scale(1.2);
 }
 .right-content{
     width: 50%;
@@ -83,4 +87,5 @@ body{
     color: white;
     background-color: #b74555;
     border-radius: 8px;
+    cursor: pointer;
 }
