@@ -1,4 +1,5 @@
 # Sandys Pokedex
+To visit the site and see your favorite Pokemon: https://sandys-pokedex.netlify.app/
 
 <img src="./pokedex.png" alt="Pokedex Project">
 
